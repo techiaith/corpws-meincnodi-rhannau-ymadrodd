@@ -19,9 +19,30 @@ Os defnyddiwch chi'r adnodd hwn, gofynwn yn garedig i chi gydnabod a chyfeirio a
 ## Cydnabyddiaeth
 Defnyddwyd testunau o'r adnoddau canlynol yn y Corpws Meincnodi:
 
-Ellis, N. C., O'Dochartaigh, C., Hicks, W., Morgan, M., & Laporte, N. (2001). Cronfa Electroneg o Gymraeg (CEG): Cronfa ddata eirfaol, miliwn o eiriau, sy'n cyfrif amlder defnydd geiriau yn y Gymraeg: . \[On-line\]
+Corpws Siarad 2014, *Corpws:Siarad*, Deuchar, M., Davies, P. & Donnelly, K., Cyrchwyd ar 03/12/2020 < http://bangortalk.org.uk/speakers.php?c=siarad>
 
-Knight D, Morris S, Fitzpatrick T, et al. (2020). CorCenCC: Corpws Cenedlaethol Cymraeg Cyfoes – the National Corpus of Contemporary Welsh (Version 1.0.0). Cardiff University. ht tp://doi.org/10.17035/d.2020.0119878310
+Ellis, N. C., O'Dochartaigh, C., Hicks, W., Morgan, M., & Laporte, N. (2001). *Cronfa Electroneg o Gymraeg (CEG): A 1 million word lexical database and frequency count for Welsh.* [On-line]
+
+Gwales.com 2020, *Llyfrau*, gwales.com, Cyrchwyd ar 03/12/2020 <http://www.gwales.com/books/?tsid=15>
+
+Hwb Cymru 2020, *Dysgu ac addysgu i Gymru*, Hwb Cymru, Cyrchwyd ar 03/12/2020 <https://hwb.gov.wales/>
+
+James, E. W. 2018, *Williams, William (Pantycelyn)*, James, E. W, Cyrchwyd ar 03/12/2020 <http://orca.cf.ac.uk/128971/1/Williams%2C%20William%20%28Pantycelyn%29.pdf>
+
+Knight D, Morris S, Fitzpatrick T, et al. (2020). *CorCenCC: Corpws Cenedlaethol Cymraeg Cyfoes – the National Corpus of Contemporary Welsh (Version 1.0.0).* Cardiff University. ht tp://doi.org/10.17035/d.2020.0119878310
+
+Meddwl.org 2020, *hafan*, meddwl.org, Cyrchwyd ar 03/12/2020 < https://meddwl.org/>
+Porth Coleg Cymraeg Cenedlaethol 2020, Hafan, Coleg Cymraeg Cenedlaethol, Cyrchwyd ar 03/12/2020 < https://wici.porth.ac.uk/index.php/Hafan>
+
+Raspberrypi.org 2020, Hello , Raspberrypi.org, Cyrchwyd ar 03/12/2020 <https://projects.raspberrypi.org/
+
+Wici Pobol y Cwm 2020, *Home*, Wici Pobol y Cwm, Cyrchwyd ar 03/12/2020 <https://pobol-y-cwm.fandom.com/cy/wiki/Main_Page>
+
+Wiki Y Cyfryngau Cymraeg 2020, *Home*, Wiki Y Cyfryngau Cymraeg Cyrchwyd ar 03/12/2020 <https://y-cyfryngau-cymraeg.fandom.com/cy/wiki/Main_Page>
+
+Wicipedia 2020, *Croeso i Wicipedia*, Sefydliad Wikimedia, Cyrchwyd ar 03/12/2020 https://cy.wikipedia.org/wiki/Hafan
+
+Ymddiriolaeth Adeiladu Cymru 2019, *Rhestr gyfeirio cynllunio digwyddiadau*, Ymddiriolaeth Adeiladu Cymru, Cyrchwyd ar 03/12/2020 <http://www.yac.cymru/uploads/resources/2019-03-13-24-2-bct-event-planning-checklist-c.pdf>
 
 ----
 
@@ -52,6 +73,27 @@ If you use this resource, we kindly ask you to acknowledge and reference our wor
 ## Acknowledgements
 Texts from the following sources were used in this resource:
 
-Ellis, N. C., O'Dochartaigh, C., Hicks, W., Morgan, M., & Laporte, N. (2001). Cronfa Electroneg o Gymraeg (CEG): Cronfa ddata eirfaol, miliwn o eiriau, sy'n cyfrif amlder defnydd geiriau yn y Gymraeg: . \[On-line\]
+Corpws Siarad 2014, *Corpws:Siarad*, Deuchar, M., Davies, P. & Donnelly, K., Cyrchwyd ar 03/12/2020 < http://bangortalk.org.uk/speakers.php?c=siarad>
 
-Knight D, Morris S, Fitzpatrick T, et al. (2020). CorCenCC: Corpws Cenedlaethol Cymraeg Cyfoes – the National Corpus of Contemporary Welsh (Version 1.0.0). Cardiff University. ht tp://doi.org/10.17035/d.2020.0119878310
+Ellis, N. C., O'Dochartaigh, C., Hicks, W., Morgan, M., & Laporte, N. (2001). *Cronfa Electroneg o Gymraeg (CEG): A 1 million word lexical database and frequency count for Welsh.* [On-line]
+
+Gwales.com 2020, *Llyfrau*, gwales.com, Cyrchwyd ar 03/12/2020 <http://www.gwales.com/books/?tsid=15>
+
+Hwb Cymru 2020, *Dysgu ac addysgu i Gymru*, Hwb Cymru, Cyrchwyd ar 03/12/2020 <https://hwb.gov.wales/>
+
+James, E. W. 2018, *Williams, William (Pantycelyn)*, James, E. W, Cyrchwyd ar 03/12/2020 <http://orca.cf.ac.uk/128971/1/Williams%2C%20William%20%28Pantycelyn%29.pdf>
+
+Knight D, Morris S, Fitzpatrick T, et al. (2020). *CorCenCC: Corpws Cenedlaethol Cymraeg Cyfoes – the National Corpus of Contemporary Welsh (Version 1.0.0).* Cardiff University. ht tp://doi.org/10.17035/d.2020.0119878310
+
+Meddwl.org 2020, *hafan*, meddwl.org, Cyrchwyd ar 03/12/2020 < https://meddwl.org/>
+Porth Coleg Cymraeg Cenedlaethol 2020, Hafan, Coleg Cymraeg Cenedlaethol, Cyrchwyd ar 03/12/2020 < https://wici.porth.ac.uk/index.php/Hafan>
+
+Raspberrypi.org 2020, Hello , Raspberrypi.org, Cyrchwyd ar 03/12/2020 <https://projects.raspberrypi.org/
+
+Wici Pobol y Cwm 2020, *Home*, Wici Pobol y Cwm, Cyrchwyd ar 03/12/2020 <https://pobol-y-cwm.fandom.com/cy/wiki/Main_Page>
+
+Wiki Y Cyfryngau Cymraeg 2020, *Home*, Wiki Y Cyfryngau Cymraeg Cyrchwyd ar 03/12/2020 <https://y-cyfryngau-cymraeg.fandom.com/cy/wiki/Main_Page>
+
+Wicipedia 2020, *Croeso i Wicipedia*, Sefydliad Wikimedia, Cyrchwyd ar 03/12/2020 https://cy.wikipedia.org/wiki/Hafan
+
+Ymddiriolaeth Adeiladu Cymru 2019, *Rhestr gyfeirio cynllunio digwyddiadau*, Ymddiriolaeth Adeiladu Cymru, Cyrchwyd ar 03/12/2020 <http://www.yac.cymru/uploads/resources/2019-03-13-24-2-bct-event-planning-checklist-c.pdf>
