@@ -1,6 +1,6 @@
 # Corpws Meincnodi Tagwyr Rhan Ymadrodd
 
-[Englis text below](#Welsh-Part-of-Speech-Tagger-BenchmarkingCorpus)
+[English text below](#Welsh-Part-of-Speech-Tagger-BenchmarkingCorpus)
 
 Mae hwn yn gorpws o bron i 25,000 mil o eiriau o destun ar ffurf 1,500 o frawddegau a godwyd o amryw o ffynonhellau gwahanol gyda'r bwriad o greu prawf da a chytbwys o allu unrhyw dagiwr rhan ymadrodd Cymraeg.
 
