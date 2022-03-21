@@ -1,0 +1,36 @@
+
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Corpws Meincnodi Tagwyr Rhan Ymadrodd/Part of Speech Tagger Benchmarking Corpus
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Gruffudd
+    family-names: Prys
+    email: g.prys@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
+    orcid: 'https://orcid.org/0000-0002-2910-2460'
+  - given-names: Gareth Llewellyn
+    orcid: 'https://orcid.org/0000-0001-8929-0718'
+    family-names: Watkins
+    email: g.watkins@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
+notes: "Gareth Watkins - Cyfraniad ieithyddol/Linguistic contribution, Gruffudd Prys - Cyfraniad ieithyddol a thechnegol/Linguistic and technical contribution"
+url: 'https://github.com/techiaith/corpws-meincnodi-rhannau-ymadrodd'
+abstract: >-
+  Corpws ar gyfer meincnodi tagwyr rhannau ymadrodd Cymraeg | A corpus for benchmarking Welsh part-of-speech taggers
+keywords:
+  - Welsh
+  - Corpus
+  - Benchmark
+  - Part of Speech
+  - Tagger
+  - Evaluation
+  - CC0
+license: CC-BY-SA
+version: '21.01'
+date-released: '2021-01-29'
